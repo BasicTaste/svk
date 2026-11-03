@@ -1,153 +1,152 @@
+
 #EXTM3U
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="Undefined",BTV (480p)
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-country="SK" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="General",BTV (480p)
 https://fs3.kabelko.sk/9011/index.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS Film (1080p)
+#EXTINF:-1 tvg-id="CSFilm" tvg-name="CS Film" tvg-country="SK" tvg-logo="" group-title="Movies",CS Film (1080p)
 https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS Film (720p)
+#EXTINF:-1 tvg-id="CSFilm" tvg-name="CS Film" tvg-country="SK" tvg-logo="" group-title="Movies",CS Film (720p)
 https://live.cdn.joj.sk/live/andromeda/cs_film-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS History (1080p)
+#EXTINF:-1 tvg-id="CSHistory" tvg-name="CS History" tvg-country="SK" tvg-logo="" group-title="Documentary",CS History (1080p)
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS History (720p)
+#EXTINF:-1 tvg-id="CSHistory" tvg-name="CS History" tvg-country="SK" tvg-logo="" group-title="Documentary",CS History (720p)
 https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS Mystery (1080p)
+#EXTINF:-1 tvg-id="CSMystery" tvg-name="CS Mystery" tvg-country="SK" tvg-logo="" group-title="Documentary",CS Mystery (1080p)
 https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",CS Mystery (720p)
+#EXTINF:-1 tvg-id="CSMystery" tvg-name="CS Mystery" tvg-country="SK" tvg-logo="" group-title="Documentary",CS Mystery (720p)
 https://live.cdn.joj.sk/live/andromeda/cs_mystery-720.m3u8
 
-#EXTINF:0 tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion;Undefined",Fashion TV,FashionTV Czech&Slovak
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",JOJ Cinema (1080p)
+#EXTINF:-1 tvg-id="JOJCinema" tvg-name="JOJ Cinema" tvg-country="SK" tvg-logo="" group-title="Movies",JOJ Cinema (1080p)
 https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="Movies;Undefined",JOJ Cinema (720p)
+#EXTINF:-1 tvg-id="JOJCinema" tvg-name="JOJ Cinema" tvg-country="SK" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="Movies",JOJ Cinema (720p)
 https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",JOJ Family (1080p)
+#EXTINF:-1 tvg-id="JOJFamily" tvg-name="JOJ Family" tvg-country="SK" tvg-logo="" group-title="Family",JOJ Family (1080p)
 https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Family;Undefined",JOJ Family (720p)
+#EXTINF:-1 tvg-id="JOJFamily" tvg-name="JOJ Family" tvg-country="SK" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Family",JOJ Family (720p)
 https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",JOJ Plus (1080p)
+#EXTINF:-1 tvg-id="JOJPlus" tvg-name="JOJ Plus" tvg-country="SK" tvg-logo="" group-title="Entertainment",JOJ Plus (1080p)
 https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="Entertainment;Undefined",JOJ Plus (720p)
+#EXTINF:-1 tvg-id="JOJPlus" tvg-name="JOJ Plus" tvg-country="SK" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="Entertainment",JOJ Plus (720p)
 https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",JOJ WAU (1080p)
+#EXTINF:-1 tvg-id="JOJWAU" tvg-name="JOJ WAU" tvg-country="SK" tvg-logo="" group-title="Entertainment",JOJ WAU (1080p)
 https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="Entertainment;Undefined",JOJ WAU (720p)
+#EXTINF:-1 tvg-id="JOJWAU" tvg-name="JOJ WAU" tvg-country="SK" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="Entertainment",JOJ WAU (720p)
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Sport",JOJ Šport (1080p)
+#EXTINF:-1 tvg-id="JOJSport" tvg-name="JOJ Šport" tvg-country="SK" tvg-logo="" group-title="Sports",JOJ Šport (1080p)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Sport",JOJ Šport (720p)
+#EXTINF:-1 tvg-id="JOJSport" tvg-name="JOJ Šport" tvg-country="SK" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Sports",JOJ Šport (720p)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",JOJ24 (1080p)
+#EXTINF:-1 tvg-id="JOJ24" tvg-name="JOJ24" tvg-country="SK" tvg-logo="" group-title="News",JOJ24 (1080p)
 https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="News;Undefined",JOJ24 (720p)
+#EXTINF:-1 tvg-id="JOJ24" tvg-name="JOJ24" tvg-country="SK" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="News",JOJ24 (720p)
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="General;Undefined",Jednotka (1080p)
+#EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-country="SK" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="General",Jednotka (1080p)
 https://sktv.plainrock127.xyz/get.php?x=STV1&checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Jojko (1080p)
+#EXTINF:-1 tvg-id="Jojko" tvg-name="Jojko" tvg-country="SK" tvg-logo="" group-title="Kids",Jojko (1080p)
 https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Kids;Undefined",Jojko (720p)
+#EXTINF:-1 tvg-id="Jojko" tvg-name="Jojko" tvg-country="SK" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Kids",Jojko (720p)
 https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Undefined",MTR (1080p)
+#EXTINF:-1 tvg-id="MTR" tvg-name="MTR" tvg-country="SK" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Local",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Markiza Klasik (1080p)
+#EXTINF:-1 tvg-id="MarkizaKlasik" tvg-name="Markiza Klasik" tvg-country="SK" tvg-logo="" group-title="Entertainment",Markiza Klasik (1080p)
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Markiza Krimi (1080p)
+#EXTINF:-1 tvg-id="MarkizaKrimi" tvg-name="Markiza Krimi" tvg-country="SK" tvg-logo="" group-title="Entertainment",Markiza Krimi (1080p)
 https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",NZTV
+#EXTINF:-1 tvg-id="NZTV" tvg-name="NZTV" tvg-country="SK" tvg-logo="" group-title="Local",NZTV
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Regio TV
+#EXTINF:-1 tvg-id="RegioTV" tvg-name="Regio TV" tvg-country="SK" tvg-logo="" group-title="Local",Regio TV
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="HU;SK" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Régió TV (406p)
+#EXTINF:-1 tvg-id="RegioTV" tvg-name="Régió TV" tvg-country="HU;SK" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Régió TV (406p)
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/8OZcO9L.png" group-title="Undefined",Senzi
+#EXTINF:-1 tvg-id="Senzi" tvg-name="Senzi" tvg-country="SK" tvg-logo="https://i.imgur.com/8OZcO9L.png" group-title="Music",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="Undefined",TA3 (360p)
+#EXTINF:-1 tvg-id="TA3" tvg-name="TA3" tvg-country="SK" tvg-logo="https://i.imgur.com/DFeWp93.png" group-title="News",TA3 (360p)
 https://sktv.plainrock127.xyz/get.php?x=TA3&checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV Central
+#EXTINF:-1 tvg-id="TVCentral" tvg-name="TV Central" tvg-country="SK" tvg-logo="" group-title="Local",TV Central
 https://dash4.antik.sk/live/test_central/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV DK (486p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVDK" tvg-name="TV DK" tvg-country="SK" tvg-logo="" group-title="Local",TV DK (486p) [Not 24/7]
 https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV JOJ (1080p)
+#EXTINF:-1 tvg-id="TVJOJ" tvg-name="TV JOJ" tvg-country="SK" tvg-logo="" group-title="General",TV JOJ (1080p)
 https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="Undefined",TV JOJ (720p)
+#EXTINF:-1 tvg-id="TVJOJ" tvg-name="TV JOJ" tvg-country="SK" tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="General",TV JOJ (720p)
 https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV Liptov (1080p)
+#EXTINF:-1 tvg-id="TVLiptov" tvg-name="TV Liptov" tvg-country="SK" tvg-logo="" group-title="Local",TV Liptov (1080p)
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV LocAll
+#EXTINF:-1 tvg-id="TVLocAll" tvg-name="TV LocAll" tvg-country="SK" tvg-logo="" group-title="Local",TV LocAll
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="Undefined",TV Lux (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVLux" tvg-name="TV Lux" tvg-country="SK" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="Religion",TV Lux (720p) [Not 24/7]
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="General",TV Mistral
+#EXTINF:-1 tvg-id="TVMistral" tvg-name="TV Mistral" tvg-country="SK" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="Local",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV NRSR (720p) [Not 24/7]
-http://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVNRSR" tvg-name="TV NRSR" tvg-country="SK" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="News",TV NRSR (720p) [Not 24/7]
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
+#EXTINF:-1 tvg-id="TVNitricka" tvg-name="TV Nitricka" tvg-country="SK" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="Local",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Undefined",TV Reduta (486p)
+#EXTINF:-1 tvg-id="TVReduta" tvg-name="TV Reduta" tvg-country="SK" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Local",TV Reduta (486p)
 https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="https://i.imgur.com/wmkg1FG.png" group-title="Undefined",TV Ružinov
+#EXTINF:-1 tvg-id="TVRuzinov" tvg-name="TV Ružinov" tvg-country="SK" tvg-logo="https://i.imgur.com/wmkg1FG.png" group-title="Local",TV Ružinov
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined;Culture",TV Vita
+#EXTINF:-1 tvg-id="TVVita" tvg-name="TV Vita" tvg-country="SK" tvg-logo="" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 
-#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General;ITALY",TV5Monde Europe (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeEurope" tvg-name="TV5Monde Europe" tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="International",TV5Monde Europe (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-country="SK" tvg-logo="" group-title="General",TV8
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-country="SK" tvg-logo="" group-title="General",TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Televízia Močenok (720p)
+#EXTINF:-1 tvg-id="TVMocenok" tvg-name="Televízia Močenok" tvg-country="SK" tvg-logo="" group-title="Local",Televízia Močenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",VIO TV (480p)
+#EXTINF:-1 tvg-id="VIOTV" tvg-name="VIO TV" tvg-country="SK" tvg-logo="" group-title="General",VIO TV (480p)
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 
-#EXTINF:0 tvg-country="SK" tvg-logo="" group-title="Undefined",Zapadoslovenska TV
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV" tvg-name="Západoslovenská TV" tvg-country="SK" tvg-logo="" group-title="Local",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
